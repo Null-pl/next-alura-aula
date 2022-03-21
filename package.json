@@ -1,9 +1,7 @@
 {
-  "name": "alura-cases-divulgacao",
+  "name": "alura-next",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/omariosouto/01-nextjs-course.git",
-  "author": "Mario Souto <13791385+omariosouto@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
