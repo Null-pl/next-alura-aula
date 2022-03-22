@@ -1,17 +1,21 @@
 [
     {
+      "id": "1",
       "banner": "https://next-alura-aula-f0y3t8gv7-pedrolucas-m-m.vercel.app/teste/htmls/01/banner_01.png",
       "html": "https://next-alura-aula-f0y3t8gv7-pedrolucas-m-m.vercel.app/teste/htmls/01/banners.html"
     },
     {
+      "id": "2",
       "banner": "https://next-alura-aula-f0y3t8gv7-pedrolucas-m-m.vercel.app/teste/htmls/02/banner_02.png",
       "html": "https://next-alura-aula-f0y3t8gv7-pedrolucas-m-m.vercel.app/teste/htmls/02/11850_slc_clientes_a_totalizar_v.html"
     },
     {
+      "id": "3",
       "banner": "https://next-alura-aula-f0y3t8gv7-pedrolucas-m-m.vercel.app/teste/htmls/03/banner_03.png",
       "html": "https://next-alura-aula-f0y3t8gv7-pedrolucas-m-m.vercel.app/teste/htmls/03/11594_slc_email_vivo_fwt.html"
     },
     {
+      "id": "4",
       "banner": "https://next-alura-aula-f0y3t8gv7-pedrolucas-m-m.vercel.app/teste/htmls/04/banner_04.png",
       "html": "https://next-alura-aula-f0y3t8gv7-pedrolucas-m-m.vercel.app/teste/htmls/04/10633_slc_migracao_de_clientes_ttech_cloud_plataforma_digital.html"
     }
