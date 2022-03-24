@@ -2,22 +2,27 @@
     {
       "id": "1",
       "banner": "https://next-alura-aula.vercel.app/Api/banners/banner_01.png",
-      "html": "https://next-alura-aula.vercel.app/Api/htmls/html_01.png"
+      "html": "https://next-alura-aula.vercel.app/Api/htmls/html_01.png",
+      "mobile": "https://next-alura-aula.vercel.app/Api/htmls/html_02.png"
     },
     {
       "id": "2",
       "banner": "https://next-alura-aula.vercel.app/Api/banners/banner_02.png",
-      "html": "https://next-alura-aula.vercel.app/Api/htmls/html_02.png"
+      "html": "https://next-alura-aula.vercel.app/Api/htmls/html_02.png",
+      "mobile": "https://next-alura-aula.vercel.app/Api/htmls/html_03.png"
+      
     },
     {
       "id": "3",
       "banner": "https://next-alura-aula.vercel.app/Api/banners/banner_03.png",
-      "html": "https://next-alura-aula.vercel.app/Api/htmls/html_03.png"
+      "html": "https://next-alura-aula.vercel.app/Api/htmls/html_03.png",
+      "mobile": "https://next-alura-aula.vercel.app/Api/htmls/html_04.png"
     },
     {
       "id": "4",
       "banner": "https://next-alura-aula.vercel.app/Api/banners/banner_04.png",
-      "html": "https://next-alura-aula.vercel.app/Api/htmls/html_04.png"
+      "html": "https://next-alura-aula.vercel.app/Api/htmls/html_04.png",
+      "mobile": "https://next-alura-aula.vercel.app/Api/htmls/html_05.png"
     },
     {
       "id": "5",
